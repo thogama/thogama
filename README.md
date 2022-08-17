@@ -1,4 +1,4 @@
-<h1> Hi everyone 👋 </h1>
+###<h1> Hi everyone 👋 </h1>
 
     <p>I Alan, majoring in computer science and  desenvolvedor junior fullstack </p>
     
@@ -34,7 +34,7 @@
         <img style="margin-right:10px ;" width="32px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-
+##
 
 
     </div>
