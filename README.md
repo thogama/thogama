@@ -1,9 +1,3 @@
-<!DOCTYPE>
-<html>
-    <head>
-        <title>Hello</title>
-    </head>
-<body>
     <h1> Hi everyone 👋 </h1>
 
     <p>I Alan, majoring in computer science and  desenvolvedor junior fullstack </p>
@@ -56,6 +50,4 @@
             <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
         </a>
     </div>
-</body>
 
-</html>
