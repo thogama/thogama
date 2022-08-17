@@ -13,11 +13,11 @@ I Alan, majoring in computer science and desenvolvedor junior fullstack
 Languages and Tools
 -------------------
 
-<div><br />
+<div>
         <img style="margin-right:10px ;" width="32px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
         
-        <img  width="32px"
+        <img style="margin-right:10px ;" width="32px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
         <img style="margin-right:10px ;" width="32px"
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
