@@ -6,7 +6,7 @@ I Alan, majoring in computer science and desenvolvedor junior fullstack
 <div>
 
 <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=thogama&theme=cobalt"/>
-<img  width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thogama&layout=compact&theme=cobalt"/>
+<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thogama&layout=compact&theme=cobalt"/>
 
 
 </div>
