@@ -5,11 +5,13 @@
 [![Alan Gama's GitHub stats](https://github-readme-stats.vercel.app/api?username=thogama)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thogama&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### I like to work with:
-#Front-End
+### Languages and Tools
+
 <img height="32px" width="32px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img height="32px" width="32px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img height="32px" width="32px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img height="32px" width="32px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+
 
 
 
