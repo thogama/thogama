@@ -1,10 +1,10 @@
 ### Hi everyone 👋
 
 🔭 I’m currently working on WebApps 
-<div>
+
 [![Alan Gama's GitHub stats](https://github-readme-stats.vercel.app/api?username=thogama)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thogama&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 I like to work jo with:
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/react.svg" />
