@@ -1,7 +1,7 @@
 Hi everyone 👋
 =============
 
-I Alan, majoring in computer science and desenvolvedor junior fullstack
+I Alan, majoring in computer science and junior fullstack dev
 
 <div>
 
