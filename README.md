@@ -20,6 +20,8 @@ Languages and Tools
 <img width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   
 <img height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/>
+  
+<img height="32px" src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4"/>
 
 <img height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
 
@@ -40,8 +42,6 @@ Languages and Tools
 <img height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
 
 <img height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-
-<img height="32px" src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4"/>
 
 
 </div>
