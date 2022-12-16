@@ -41,6 +41,8 @@ Languages and Tools
 
 <img height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 
+<img height="32px src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4"/>
+
 
 </div>
 
