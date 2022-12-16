@@ -23,7 +23,7 @@ Languages and Tools
   
 <img height="32px" src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4"/>
 
-<img height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
+<img height="32px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"/>
 
 <img height="32px" src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg"/>
 
