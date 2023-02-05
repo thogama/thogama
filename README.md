@@ -1,7 +1,8 @@
 Hi everyone 👋
 =============
 
-I Alan, majoring in computer science and junior fullstack dev
+I Alan, majoring in computer science and junior fullstack 
+take a look at my portfolio! # https://alan-gam-portfolio.web.app/
 
 <div>
 
