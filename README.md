@@ -2,7 +2,7 @@ Hi everyone 👋
 =============
 
 
-<p>I'm Alan, majoring in computer science and a junior fullstack developer. Take a look at my portfolio <a href="https://alan-gam-portfolio.web.app/">here</a>.</p>
+<p>I'm Alan, fullstack software ennginner and majoring in computer science. Take a look at my portfolio <a href="https://alan-gam-portfolio.web.app/">here</a>.</p>
 
 <div>
 
