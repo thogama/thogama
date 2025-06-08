@@ -5,7 +5,6 @@ Desenvolvedor Fullstack (Mid-level Developer)
 *   Email: dethfiregrasp@gmail.com
 *   Telefone: +55 (79) 99174-3525
 *   LinkedIn: https://www.linkedin.com/in/alangama4
-*   GitHub: https://github.com/thogama
 *   Portfólio: https://alan-gam-portfolio.web.app/
 
 ## Sobre Mim
