@@ -7,13 +7,15 @@
 </div>
 
 <div align="center">
-  
+
 ## 📱 **Contato**
 
 [![Email](https://img.shields.io/badge/Email-dethfiregrasp%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dethfiregrasp@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B55%2079%2099174--3525-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5579991743525)
 [![GitHub](https://img.shields.io/badge/GitHub-alangama4-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alangama4)
 [![Twitter](https://img.shields.io/badge/Twitter-@thogama-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thogama)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alangama4-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alangama4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alan-gama.online)
 
 📍 **Aracaju, Sergipe, Brasil** 🇧🇷
 
@@ -103,21 +105,3 @@
 **🏛️ DITIN São Cristóvão** - *Fullstack Developer* (Nov 2022 - Abr 2023)  
 **🧠 Neurometa** - *Backend Developer* (Jan 2022 - Jan 2023)  
 **💻 Freelancer** - *Backend Developer* (Fev 2021 - Jul 2023)
-
-## 📫 Como me encontrar
-
-<div align="center">
-
-## 📱 **Contato**
-
-[![Email](https://img.shields.io/badge/Email-dethfiregrasp%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dethfiregrasp@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B55%2079%2099174--3525-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5579991743525)
-[![GitHub](https://img.shields.io/badge/GitHub-alangama4-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alangama4)
-[![Twitter](https://img.shields.io/badge/Twitter-@thogama-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thogama)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alangama4-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alangama4)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alan-gama.online)
-
-📍 **Aracaju, Sergipe, Brasil** 🇧🇷
-
-</div>
-
