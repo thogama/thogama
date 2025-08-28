@@ -85,10 +85,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thogama&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thogama&theme=tokyonight" alt="thogama" />
-</div>
-
 </div>
 
 ## 🏆 Destaques Profissionais
