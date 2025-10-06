@@ -2,8 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Node.js+%26+Laravel+Specialist;Passionate+about+Technology)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF71B&width=435&lines=FullStack+Developer;Node+JS+%26+PHP+Laravel+Specialist)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
